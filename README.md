@@ -25,7 +25,15 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `yarn add PACKAGE_NAME`
+
+Adds a new package to project, entry in the `package.json`.<br />
+Add the `--save` flag to add.
+Add the `--dev` flag to add as dev dependency.
+
+### `yarn remove PACKAGE_NAME`
+
+Removes a particular package from project, and also its entry from the `package.json`.
 
 ### `yarn eject`
 
