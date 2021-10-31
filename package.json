@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.4.3",
+    "husky": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-mdl": "^1.11.0",
