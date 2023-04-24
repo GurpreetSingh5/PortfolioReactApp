@@ -31,6 +31,10 @@ Adds a new package to project, entry in the `package.json`.<br />
 Add the `--save` flag to add.
 Add the `--dev` flag to add as dev dependency.
 
+### `yarn remove PACKAGE_NAME`
+
+Removes a particular package from project, and also its entry from the `package.json`.
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
